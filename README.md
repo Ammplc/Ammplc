@@ -27,7 +27,7 @@
 </td>
 
 <td valign="top" width="250" align="right">
-  <img src="https://img.sanishtech.com/u/9c6918cd1cf8cef510c19aa11ac6f144.png" width="220" alt="Profile Image">
+  <img src="https://i.postimg.cc/QdLy7nkM/Bez-nazvania238-20260804141524.png" width="220" alt="Profile Image">
 </td>
 </tr>
 </table>
