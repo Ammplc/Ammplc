@@ -35,12 +35,12 @@
             <code>[ TIKTOK ]</code>
           </a>
           &nbsp;&nbsp;
-          <a href="https://roblox.com" target="_blank" style="text-decoration: none; color: #ffffff;">
-            <code>[  ROBLOX ]</code>
+          <a href="https://www.roblox.com/users/1905437892/profile" target="_blank" style="text-decoration: none; color: #ffffff;">
+            <code>[ ROBLOX ]</code>
           </a>
           &nbsp;&nbsp;
           <a href="https://discord.com" target="_blank" style="text-decoration: none; color: #ffffff;">
-            <code>[  DISCORD: ammplc ]</code>
+            <code>[ DISCORD: ammplc ]</code>
           </a>
         </p>
 <!-- Кастомные символы в самом низу блока информации -->
