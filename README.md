@@ -11,27 +11,21 @@
         <!-- Замените ссылку ниже на свою аватарку, когда будете готовы -->
         <img src="https://i.ibb.co/HDYPj81B/248-20261108134451.png" width="90%" style="border: 2px solid #ffffff; padding: 5px;" />
       </td>
-      <!-- Контентная часть (Справа) -->
       <td width="60%" align="left" valign="top" style="color: #ffffff; font-family: monospace; padding-left: 20px;">
-        <!-- ВЕРХНЯЯ КАРТИНКА (САМЫЙ ВЕРХ РЯДОМ С АВАТАРОМ) -->
         <div align="left" style="margin-bottom: 20px;">
-          <!-- Перетащите вашу картинку прямо сюда в кавычки src="..." в редакторе GitHub -->
           <img src="https://i.ibb.co/bj0KCLzy/356-20261108154039.png" width="100%" style="max-height: 200px; object-fit: contain;" />
         </div>
-<!-- НИКНЕЙМ, ТЕГИ И ИНФО (ТЕПЕРЬ ПО ЦЕНТРУ И КРУПНЕЕ) -->
         <p align="center" style="font-size: 22px; line-height: 1.4; margin: 0 0 20px 0;">
           <code>✛ ⚠ AMMPLC ✦ she/he</code><br>
           <code>✵ ▄︻デ══━一💨 / T-woman ✦</code><br>
           <code>✝ UTC+10 ⚦ 22 y.o</code>
         </p>
-        <!-- ЖЕСТКИЙ ТЕКСТ ПРО ROBLOX И VINE STAFF -->
         <p style="font-size: 15px; line-height: 1.6; text-align: justify; margin: 0 0 20px 0;">
           〃 ✦ 𝙈𝙔 𝙍𝙊𝘽𝙇𝙊𝙓 𝘾𝙃𝘼𝙏 𝙄𝙎 𝙋𝙀𝙍𝙈𝘼𝙉𝙀𝙉𝙏𝙇𝙔 𝘿𝙄𝙎𝘼𝘽𝙇𝙀𝘿. 𝘿𝙊𝙉'𝙏 𝙀𝙑𝙀𝙉 𝘽𝙊𝙏𝙃𝙀𝙍 𝙒𝙍𝙄𝙏𝙄𝙉𝙂. <br>
           I am a level 1k+ player in Phighting. I don't engage in petty gaming drama or toxicity—I simply drop stickers on people and move on.
         </p>
-        <!-- КНОПКИ СОЦСЕТЕЙ (TIKTOK, ROBLOX, DISCORD) -->
         <p style="font-size: 13px; margin: 0 0 5px 0; line-height: 1.6;">
-          <a href="https://tiktok.com" target="_blank" style="text-decoration: none; color: #ffffff;">
+          <a href="https://www.tiktok.com/@ammplc?_r=1&_t=ZS-98am6AXIphI" target="_blank" style="text-decoration: none; color: #ffffff;">
             <code>[ TIKTOK ]</code>
           </a>
           &nbsp;&nbsp;
@@ -42,6 +36,13 @@
           <a href="https://discord.com" target="_blank" style="text-decoration: none; color: #ffffff;">
             <code>[ DISCORD: ammplc ]</code>
           </a>
+           &nbsp;&nbsp;
+          <a href="https://x.com/ammplc_" target="_blank" style="text-decoration: none; color: #ffffff;">
+            <code>[ X/TWITTER ]</code>
+             </a>
+            &nbsp;&nbsp;
+          <a href="https://t.me/ammplcc" target="_blank" style="text-decoration: none; color: #ffffff;">
+            <code>[ TGC ]</code>
         </p>
 <!-- Кастомные символы в самом низу блока информации -->
         <p style="font-size: 14px; color: #888888; margin: 15px 0 0 0;"> ▄︻デ══━一 𝓑𝓸𝓻𝓷 𝓽𝓸 𝓭𝓲𝓮 °</p>
