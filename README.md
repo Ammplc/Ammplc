@@ -1,14 +1,10 @@
 <div align="center">
   
-  <!-- ЗАГЛОВОК СТРАНИЦЫ -->
   <h1 align="left"><code>@Ammplc </code></h1>
   <br>
-  <!-- БЛОК 1: АВАТАР, КАРТИНКА (СВЕРХУ), ТЕКСТ И СОЦСЕТИ -->
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <!-- Аватарка (Слева) -->
       <td width="40%" align="left" valign="top">
-        <!-- Замените ссылку ниже на свою аватарку, когда будете готовы -->
         <img src="https://i.ibb.co/HDYPj81B/248-20261108134451.png" width="90%" style="border: 2px solid #ffffff; padding: 5px;" />
       </td>
       <td width="60%" align="left" valign="top" style="color: #ffffff; font-family: monospace; padding-left: 20px;">
@@ -44,24 +40,18 @@
           <a href="https://t.me/ammplcc" target="_blank" style="text-decoration: none; color: #ffffff;">
             <code>[ TGC ]</code>
         </p>
-<!-- Кастомные символы в самом низу блока информации -->
         <p style="font-size: 14px; color: #888888; margin: 15px 0 0 0;"> ▄︻デ══━一 𝓑𝓸𝓻𝓷 𝓽𝓸 𝓭𝓲𝓮 °</p>
       </td>
     </tr>
   </table>
 
   <br>
-  <!-- РАЗДЕЛИТЕЛЬ 1 (Волнистая линия) -->
   <p align="center" style="color: #444444; letter-spacing: -2px;">〰〰 〰〰〰 〰〰 〰〰〰 〰〰 〰〰〰 〰〰 〰〰〰 〰〰</p>
   <br>
-
-  <!-- БЛОК 2: СЛОВАРЬ "INFORMATION" И НИЖНИЙ АРТ -->
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <!-- Блок со словом Information (Слева) -->
       <td width="50%" align="left" valign="middle" style="font-family: monospace; color: #ffffff; padding-left: 10px;">
         <h2 style="margin: 0; letter-spacing: 2px;">▶︎ •၊၊||၊|။||||| 0:10</h2>
-        <!-- Сам текст песни (Сохраняем оригинальный шрифт) -->
         <p style="font-size: 14px; line-height: 1.6; margin: 0; text-align: left; color: #ffffff;">
           𝑪𝒂𝒏 𝒚𝒐𝒖 𝒇𝒆𝒆𝒍 𝒎𝒚 𝒔𝒐𝒖𝒍 𝒊𝒏 𝒘𝒂𝒓𝒔? <br>
           𝑰 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒈𝒐 𝒃𝒂𝒄𝒌 𝒕𝒐 𝒚𝒐𝒖𝒓 𝒉𝒆𝒂𝒓𝒕! <br>
@@ -77,7 +67,6 @@
         </p>
       </td>
       </td>
-      <!-- Правая нижняя картинка (например, ваш полароид) -->
       <td width="50%" align="right" valign="middle">
         <img src="https://i.ibb.co/fVj5q55c/357-20261108164305.png" width="95%" style="border: 1px solid #333;" />
       </td>
@@ -85,20 +74,18 @@
   </table>
 
   <br>
-  <!-- РАЗДЕЛИТЕЛЬ 2 -->
+
   <p align="center" style="color: #444444; letter-spacing: -2px;">〰〰 〰〰〰 〰〰 〰〰〰 〰〰 〰〰〰 〰〰 〰〰〰 〰〰</p>
   <br>
 
-  <!-- БЛОК 3: ИНТЕРЕСЫ И ПЛЕЙЛИСТ -->
+
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <!-- ЛЕВАЯ СТОРОНА: ФЭНДОМЫ И ПЕРСОНАЖИ -->
       <td width="50%" align="left" valign="top" style="font-family: monospace; color: #ffffff; padding-right: 15px;">
         <h3 style="margin: 0 0 10px 0;">ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ</h3>
         
   <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top: 10px;">
           <tr>
-            <!-- Колонка: Фэндомы -->
             <td width="50%" valign="top" style="font-family: monospace; color: #ffffff; padding-right: 10px;">
               <b style="color: #ffffff; font-size: 14px; text-transform: uppercase;">Fandoms:</b>
               <p style="font-size: 13px; line-height: 1.5; margin: 8px 0 0 0; color: #dddddd;">
@@ -119,7 +106,6 @@
                 • MONSTER X MEDIATOR
               </p>
             </td>
-            <!-- Колонка: Персонажи -->
             <td width="50%" valign="top" style="font-family: monospace; color: #ffffff; padding-left: 10px; border-left: 1px dashed #333333;">
               <b style="color: #ffffff; font-size: 14px; text-transform: uppercase;">Favs:</b>
               <p style="font-size: 13px; line-height: 1.5; margin: 8px 0 0 0; color: #dddddd;">
@@ -137,12 +123,10 @@
             </td>
           </tr>
         </table>
-        <!-- КАРТИНКА ПОД ФЭНДОМАМИ -->
         <div align="center" style="margin-top: 20px;">
           <img src="https://i.ibb.co/60ZJYK1b/357-20261108172142.png" width="100%" style="border: 1px solid #333333; max-height: 180px; object-fit: cover;" />
         </div>
       </td>
-      <!-- ПРАВАЯ СТОРОНА: МОЩНЫЙ DNI LIST -->
       <td width="50%" align="left" valign="top" style="font-family: monospace; color: #ffffff; padding-left: 15px; border-left: 1px dashed #333333;">
         <h3 style="margin: 0 0 10px 0; color: #ffffff;">𝗗𝗡𝗜 𝗜𝗙 𝗬𝗢𝗨 𝗔𝗥𝗘... </h3>
         <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top: 10px;">
@@ -164,7 +148,6 @@
           If you fit any of the above, just do not interact with me. Please.
         </p>
         <div align="center" style="margin-top: 15px;">★</div>
-        <!-- Три трека в ряд под DNI -->
         <table width="100%" border="0" style="font-size: 10px; color: #888888; text-align: center; margin-top: 15px;">
           <tr>
             <td>
@@ -186,11 +169,9 @@
   </table>
 
   <br>
-  <!-- РАЗДЕЛИТЕЛЬ 3 -->
   <p align="center" style="color: #444444; letter-spacing: -2px;">〰〰 〰〰〰 〰〰 〰〰〰 〰〰 〰〰〰 〰〰 〰〰〰 〰〰</p>
   <br>
 
-  <!-- БЛОК 4: ФУТЕР (ЗАМЕТКИ ВНИЗУ) -->
   <div align="left" style="font-family: monospace; color: #ffffff; font-size: 12px; line-height: 1.6; padding: 0 10px;">
     <p style="margin: 0 0 10px 0;">
       * <b>Welcome note:</b> pilgrim lover, kisser etc.
