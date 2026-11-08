@@ -193,7 +193,7 @@
   <!-- БЛОК 4: ФУТЕР (ЗАМЕТКИ ВНИЗУ) -->
   <div align="left" style="font-family: monospace; color: #ffffff; font-size: 12px; line-height: 1.6; padding: 0 10px;">
     <p style="margin: 0 0 10px 0;">
-      * <b>Welcome note:</b> Thank you for visiting Ammplc's profile page. Leave a star if you like it!
+      * <b>Welcome note:</b> pilgrim lover, kisser etc.
     </p>
   </div>
 
